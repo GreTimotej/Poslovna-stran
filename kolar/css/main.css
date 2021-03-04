@@ -1,0 +1,40 @@
+#loginform{
+    margin-top: 5%;
+}
+
+.carousel .carousel-item{
+    height: 700px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 700px;
+}
+body{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+#footer{
+    margin-top: 1%;
+}
+
+#footer-loc p{
+    margin-bottom: 1%;
+}
+
+#social a{
+    margin-right: 3% !important;
+}
+
+#send-q{
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-bottom: 5%;
+}
+#about-text{
+    margin: 2%;
+    font-size: 150%;
+}
